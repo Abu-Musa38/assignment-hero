@@ -413,10 +413,14 @@ input[type="submit"]:hover {
     color:black;
 }
 footer{
-    width:100%;
+    margin:0px auto;
+    margin-left:550px;
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
     background-color: #070211;
-    position:absolute;
-    bottom:-5400px
+   position: absolute;
+   bottom: 0px;
   
 }
 .seshp{
@@ -446,7 +450,7 @@ margin-right: 340px;
 .sesh{
     display: flex;
     justify-content: space-between;
-
+    
 }
 
 hr{
@@ -457,7 +461,7 @@ border:1px;
 background: rgba(255, 255, 255, 0.15);
 }
 #hor-img{
-margin-left:790px;
+margin-left:550px;
 }
 .hori-img{
     margin:24px;
