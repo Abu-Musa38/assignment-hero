@@ -412,9 +412,14 @@ input[type="submit"]:hover {
     background-color: rgb(247, 148, 148);
     color:black;
 }
+footer{
+    width:100%;
+    background-color: #070211;
+    position:absolute;
+    bottom:-5300px
+   
+}
 
-
-/*
 .sesh{
     width: 1600px;
 height: 609px;
@@ -422,9 +427,14 @@ flex-shrink: 0;
 background: #070211;
 display: flex;
 justify-content: space-between;
-margin:3000px auto;
+
+
+width:100%;
+    position: absolute;
+    bottom:0px;
 
 }
+
 .sesh1{
     color: #FFF;
 font-family: Inter;
@@ -432,22 +442,4 @@ font-size: 24px;
 font-style: normal;
 font-weight: 500;
 line-height: 40px; /* 166.667% */
-/* margin-left:120px;
-margin-top: 140px;
-
 }
-.sesh2{
-    color: #FFF;
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: 40px; /* 166.667% */
-/* margin-top: 120px;
-margin-right: 290px;
-}
-hr{
-    width: 1320px;
-height: 1px;
-background: rgba(255, 255, 255, 0.15);   
-} */ */
