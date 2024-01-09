@@ -492,6 +492,11 @@ justify-content:space-between;
     margin-right:350px;
     margin-bottom: 120px;
 }
+.hov:hover{
+       transform:scale(1.2);
+        cursor:pointer;
+    
+}
 /* hr{
     width: 1660px;
 height: 1px;
