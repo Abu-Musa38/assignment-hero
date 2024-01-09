@@ -413,16 +413,21 @@ input[type="submit"]:hover {
     color:black;
 }
 footer{
-    margin:0px auto;
-    margin-left:550px;
-    width: 1600px;
+    
+ 
     height: 609px;
     flex-shrink: 0;
     background-color: #070211;
-   position: absolute;
-   bottom: 0px;
-  
+    width:100%;
+
+    position:absolute;
+   
+   
+    bottom:-5500px;
+
 }
+  
+
 .seshp{
     color: #FFF;
 font-family: Inter;
@@ -461,7 +466,7 @@ border:1px;
 background: rgba(255, 255, 255, 0.15);
 }
 #hor-img{
-margin-left:550px;
+margin-left:40%;
 }
 .hori-img{
     margin:24px;
